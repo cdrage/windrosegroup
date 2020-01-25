@@ -1685,9 +1685,9 @@ ul#countdown li {
 	}
 
 	.cta_sub {
-		/*display: flex;*/
+		display: flex;
 		margin: auto;
-		height: 480px;
+		/*height: 480px;*/
 	}
 
 	.cta_sub .cta_sub_inner {
