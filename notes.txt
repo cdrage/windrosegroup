@@ -1,0 +1,2 @@
+Use formspree for form submission
+Link / embedded for Medium blog posts (jekyll?)
